@@ -73,3 +73,13 @@ Several visualizations were created to understand relationships in the data:
 **created by lola**
 ## 📁 Project Structure
 
+student-performance-analysis/
+├── student_analysis_project.ipynb
+├── student-mat.csv
+├── README.md
+├── Distribution of Final Grades.png
+├── Grade_Distribution_by_Study_Time.png
+├── Average_Final_Grade_by_Study_Time.png
+└── absences_vs_grade.png
+
+
